@@ -1,0 +1,19 @@
+p.flashy{
+  color: red;
+  font-style: italic;
+}
+li.best{
+  color: purple;
+  font-family: cursive;
+  font-size: 30px;
+
+}
+body {
+  background-color: #8a5e9e;
+}
+h1 {
+  text-align: center;
+  font-size: 75px;
+  font-family: cursive;
+  color: #474747;
+}
