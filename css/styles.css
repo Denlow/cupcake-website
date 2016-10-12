@@ -1,6 +1,7 @@
 p.flashy{
-  color: red;
+  color: #af0000;
   font-style: italic;
+  font-size: 35px;
 }
 li.best{
   color: purple;
@@ -12,6 +13,24 @@ body {
   background-color: #8a5e9e;
 }
 h1 {
+  text-align: center;
+  font-size: 75px;
+  font-family: cursive;
+  color: #474747;
+}
+img.bestpicture {
+  height: 400px;
+}
+img.hero {
+  height: 300px;
+}
+img.head {
+  height: 500px;
+}
+img.cherry {
+  height: 400px;
+}
+h2 {
   text-align: center;
   font-size: 75px;
   font-family: cursive;
